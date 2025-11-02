@@ -5,3 +5,7 @@
 ``` python
 greeting = 'hello, world!'
 ```
+
+- [ ] Master Database & System Design
+- [ ] Complete Git Course
+- [ ] Build MVP
